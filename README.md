@@ -63,7 +63,7 @@ Caso queira rodar no VS Code, pressione **F5** ou execute `Flutter: Run` no menu
 ## Autor
 
 
-<a href="https://github.com/WeslleyEvangelista">
+<a href="https://github.com/WeslleyEvangelista" target="_blank">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113722634?v=4" width="100px" height="100px" alt=""/>
   <br />
 </a>
